@@ -1,0 +1,4 @@
+vagrant-centos-chef
+===================
+
+vagrantbox
